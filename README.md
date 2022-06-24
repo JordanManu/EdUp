@@ -6,13 +6,13 @@
 
 [Welcome to Ed Up!](https://edup-schools.herokuapp.com/)
 
-For our final project on the Makers Academy course, we are five students from the March 2022 cohort who have chosen to create a web app that will primarily be used for communication between schools and parents. Parents will be able to login to their accounts to check the latest notices, have a calendar with important dates and events marked by teachers, make payments to pay for any invoices for their child's education with text confirmation and also be able to have a live chat with staff from school.\
-\
-On the other hand, teachers will be able to login to their account, create notices to be displayed on the noticeboard, delete notices that are no longer applicable, mark important event and dates on the calendar for parents to see, delete marked calendar events, create invoices for parents to pay, and also be able to live chat with parents who wish to speak to them.\
+For our final project on the Makers Academy course, we are five students from the March 2022 cohort who have chosen to create a web app that will primarily be used for communication between schools and parents. Parents will be able to login to their accounts to check the latest notices, have a calendar with important dates and events marked by teachers, make payments to pay for any invoices for their child's education with text confirmation and also be able to have a live chat with staff from school.
+
+On the other hand, teachers will be able to login to their account, create notices to be displayed on the noticeboard, delete notices that are no longer applicable, mark important event and dates on the calendar for parents to see, delete marked calendar events, create invoices for parents to pay, and also be able to live chat with parents who wish to speak to them.
 
 
 Watch our demo video [here!](https://www.youtube.com/watch?v=MnX0ePaLG-I)
-\
+
 
 This is our team which worked on this project:
 
